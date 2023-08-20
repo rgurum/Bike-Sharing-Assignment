@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Analysis Involved] (#analysis-involved)
+* [Analysis Involved](#analysis-involved)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
