@@ -16,7 +16,7 @@
 - The objective is to predict the booking demand by various independent variables
 - day.csv (Bike booking data)
 
-## analysis-involved
+## Analysis Involved
 
 1. *Univariate Analysis:*
 - Humidity is high between 50-70
